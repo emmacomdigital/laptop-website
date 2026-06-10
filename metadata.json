@@ -1,0 +1,6 @@
+{
+  "name": "Laptop E-Commerce Site",
+  "description": "An elegant laptop e-commerce site utilizing Google Sheets as a real-time inventory database and integrated with a secure payment gateway flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
